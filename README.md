@@ -30,17 +30,12 @@ I'm currently working on my own AI assistant.
 ![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-F38020?style=for-the-badge&logo=cloudflarepages&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📊 GitHub Stats
+## 🚀 Current Focus
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kanastudios&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=kanastudios&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak" />
-
-</div>
+- Building websites and tools for **Kana Studios**
+- Working on **Rust server tools**
+- Learning **web development, automation and AI**
+- Creating my own **AI assistant**
 
 ## 🔗 Connect with me
 
