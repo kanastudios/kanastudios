@@ -34,9 +34,11 @@ I'm currently working on my own AI assistant.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanastudios&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
+<img src="https://github-readme-stats.vercel.app/api?username=kanastudios&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kanastudios&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+<br>
+
+<img src="https://streak-stats.demolab.com?user=kanastudios&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak" />
 
 </div>
 
